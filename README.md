@@ -29,8 +29,8 @@
 
 ## 🌐 Contact Me On
 
-- **Website:** [Baskar_M](https://ayyam-portfolio.netlify.app/)
-- **LinkedIn:** [Baskar_M](https://www.linkedin.com/in/ayyampandi5015/)
+- **Website:** [Ayyam Pandi.v](https://ayyam-portfolio.netlify.app/)
+- **LinkedIn:** [Ayyam Pandi.v](https://www.linkedin.com/in/ayyampandi5015/)
 - **Email:** <a href="mailto:ayyampandi.v@gmail.com">ayyampandi.v@gmail.com</a>
 
 <!--
