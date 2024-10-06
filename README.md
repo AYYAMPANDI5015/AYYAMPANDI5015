@@ -13,7 +13,7 @@
 
 <br>
 <a href="https://leetcode.com/u/AYYAM_PANDI/">
-    <img src="https://leetcard.jacoblin.cool/__AYYAMPANDI-V_2004?=dark&font=Goldman&ext=activityy"></img>
+    <img src="https://leetcode.com/u/AYYAM_PANDI/"?=dark&font=Goldman&ext=activityy"></img>
 <a>
 
 <!------------------------------------------>
